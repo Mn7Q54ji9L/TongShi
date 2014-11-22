@@ -1,6 +1,6 @@
 通识课学习助手
 =======
-下载地址1：http://pan.baidu.com/s/1bno3lZx
+下载地址1：http://pan.baidu.com/s/1c02EtnM
 
 题目查询工具，每个账号每周可免费查询100次。（应该可以满足自己做的同学）
 
