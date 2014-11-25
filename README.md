@@ -8,7 +8,7 @@
 VIP服务：10元1000次，20元2000次，以此类推，不限时间。（针对拿钱代做的同学）  
 购买VIP服务：http://eryatiku.jd-app.com/vip.jsp
 
-客服QQ: 3074578674  
+客服QQ: 3074578674  （提问前请先阅读下面的常见问题，谢谢！）
 有问题也可以在这里提：https://github.com/Mn7Q54ji9L/TongShi/issues
 
 之前在网站eryatiku.jd-app.com支付过的同学请联系客服(QQ: 3074578674)，按以下格式向客服发送消息，即可获得1000次查询服务！  
