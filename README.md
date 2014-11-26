@@ -1,7 +1,7 @@
 通识课学习助手
 =======
 下载地址1（需要百度账号）：http://pan.baidu.com/s/1sjmERnB  
-下载地址2（需要CSDN账号）：http://download.csdn.net/detail/lweize325/8190523  
+下载地址2（需要CSDN账号）：http://download.csdn.net/detail/lweize325/8199041  
 
 题目查询工具，每个账号每个月可免费查询500次。（应该可以满足自己做的同学） 
 
